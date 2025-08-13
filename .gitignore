@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+phishing_model.pkl
+.env
+.idea/
+.vscode/
